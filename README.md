@@ -6,9 +6,5 @@
 * Links to social media pages included: github, LinkedIn, and StackOverflow
 * Utilized HTML and 
 
-
-## Visual Aide
-* ![About Page]( assets/images/Screenshot (55).png"Logo Title Text 1")
-
 ## Contributor
 * Addis Stephanie Casco
